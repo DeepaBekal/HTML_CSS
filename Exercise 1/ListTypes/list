@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+	<head>
+		<title>List Types</title>
+		<meta charset = "utf-8"/>
+	</head>
+
+	<body>
+		Back to <a href="../index">Main page</a>.
+		<h4>Unordered List example</h4>
+		<ul>		
+			<li>brush</li>
+			<li>cook </li>
+			<li>eat </li>
+			<li>read </li>
+			<li>study </li>
+			<li>sleep </li>
+			<li>repeat</li>
+		</ul>
+		<h4>Ordered List example</h4>
+		<ol>			
+			<li>study</li>
+			<li>prepare notes</li>
+			<li>revise</li>
+			<li>interview</li>
+			<li>job</li>
+		</ol>
+		<h4>Definition List example</h4>
+		<dl>
+			<dt>Study Following:</dt>
+			<dd>Java</dd>
+			<dd>HTML</dd>
+			<dd>CSS</dd>
+			<dd>JavaScript</dd>
+		</dl>
+	</body>
+
+</html>

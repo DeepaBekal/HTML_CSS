@@ -1,0 +1,17 @@
+a{
+	color:rgb(100,200,50);
+	text-decoration:none;
+}
+h1{
+	font-family: sans-serif;
+}
+p{
+	color: red;
+}
+div{
+
+	width:500px;
+	background:#e3e3e3;
+	margin: auto;
+	text-align: center;
+}
