@@ -1,0 +1,27 @@
+.wrap{
+	min-width: 600px;
+	width: 80%;
+	margin: auto;
+	background: #e3e3e3;
+	overflow: hidden;
+}
+
+.content, aside{
+	height: 500px;
+}
+.content{
+	background: orange;
+	float: left;
+	width: 80%;
+}
+
+aside{
+	background: pink;
+	float: left;
+	width: 20%;
+}
+
+aside ul{
+	padding: 0px;
+	list-style: none;
+}

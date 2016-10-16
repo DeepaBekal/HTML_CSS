@@ -1,0 +1,17 @@
+<!doctype html>
+<head>
+
+</head>
+	<meta charset="utf-8"/>
+	<title>AboutMe</title>
+	<link rel="stylesheet" href="../css/style.css"/>
+<body>
+	<h1>My sunsign</h1>
+	<p>I am an Aquarian.<br><br>
+		<a href="../index">Go Back.</a.
+	</p><br><br>
+	<img src="../img/kitty.jpg">
+	
+
+
+</body>

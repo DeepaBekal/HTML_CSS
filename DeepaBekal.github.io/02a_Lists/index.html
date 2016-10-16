@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<title>Practice</title>
+	<style>
+		#mark{color:red;}
+		.check{color: blue;}
+		#section li:nth-child(2){color:orange;}
+		ul:nth-child(2) li:nth-child(4){color:pink;}
+		ul:first-of-type li:nth-child(4){color:magenta;}
+	</style>
+</head>
+
+<body>
+	<ul>
+		<li id="mark">This</li>
+		<li>is</li>
+		<li id="mark">identifier</li>
+		<li>method</li>
+	</ul>
+	<ul>
+		<li class="check">This</li>
+		<li>is</li>
+		<li class="check">class</li>
+		<li>method</li>
+	</ul>
+	<ul id="section">
+		<li>This</li>
+		<li>is</li>
+		<li>another</li>
+		<li>method</li>
+	</ul>
+</body>
+</html>
