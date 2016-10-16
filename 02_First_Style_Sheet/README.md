@@ -1,2 +1,2 @@
-# First Web Page:  
-https://deepabekal.github.io/01_First_Web_Page/
+# First Style Sheet:  
+https://deepabekal.github.io/02_First_Style_Sheet/
